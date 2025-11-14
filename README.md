@@ -1,9 +1,4 @@
 # Performance Comparison of CMOS and TGL-Based Low-Power Full Adders  
-**ECE 240 — Advanced VLSI Systems & Circuits**  
-**Instructor:** Dr. Nan Wang  
-**Authors:**  
-- Sai Tejaswini Andem (302319629)  
-- Sravani Yalaganamoni (301850160)
 
 ---
 
